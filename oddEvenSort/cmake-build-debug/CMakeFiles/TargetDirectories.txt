@@ -1,0 +1,3 @@
+C:/Users/Emir/Desktop/Data Structures/Projects/oddEvenSort/cmake-build-debug/CMakeFiles/oddEvenSort.dir
+C:/Users/Emir/Desktop/Data Structures/Projects/oddEvenSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emir/Desktop/Data Structures/Projects/oddEvenSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
